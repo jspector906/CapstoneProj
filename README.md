@@ -13,4 +13,4 @@
 
 
 
-![](https://raw.githubusercontent.com/jspector906/CapstoneProj/master/Smiley.jpg)
+![](https://raw.githubusercontent.com/jspector906/CapstoneProj/master/Smiley%20(1).jpg)
