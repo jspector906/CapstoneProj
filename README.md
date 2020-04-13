@@ -15,4 +15,4 @@
 
 ![](https://raw.githubusercontent.com/jspector906/CapstoneProj/master/Smiley%20(1).jpg)
 
-**[Mobile Wireframes]**(https://imgur.com/a/ILesVhq)
+**Mobile Wireframes:** _https://imgur.com/a/ILesVhq_
