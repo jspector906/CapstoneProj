@@ -1,0 +1,44 @@
+#pic1 {
+  height: 500px;
+  width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  opacity: 0.4;
+  position: relative;
+  ;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 50px;
+}
+
+#form {
+  text-align: center;
+
+}
+
+.topnav {
+  background-color: blue;
+  overflow: hidden;
+}
+
+.topnav a {
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: gold;
+  color: white;
+}
