@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 50px;
+}
+
+h2 {
+  text-align: center;
+  color: blue;
+  font-size: 25px;
+}
+
+#form1, #form2 {
+  text-align: center;
+}
+
+input {
+  border: 1px solid blue;
+  border-radius: 5px;
+  outline: none;
+}
+
+.c1, .c2 {
+  text-align: center;
+  color: blue;
+}
+
+.topnav {
+  text-align: center;
+  overflow: hidden;
+}
+
+.topnav :hover {
+  background-color: blue;
+  color: black;
+}
+
+.jumb {
+  height: 400px;
+  width: 1500px;
+}
+
+* {
+  background-color: yellow;
+}
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */

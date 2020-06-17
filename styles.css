@@ -1,44 +1,45 @@
-#pic1 {
-  height: 500px;
-  width: 1500px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  opacity: 0.4;
-  position: relative;
-  ;
-}
-
 h1 {
   text-align: center;
   color: blue;
   font-size: 50px;
 }
 
-#form {
+h2 {
   text-align: center;
+  color: blue;
+  font-size: 25px;
+}
 
+#form1, #form2 {
+  text-align: center;
+}
+
+input {
+  border: 1px solid blue;
+  border-radius: 5px;
+  outline: none;
+}
+
+.c1, .c2 {
+  text-align: center;
+  color: blue;
 }
 
 .topnav {
-  background-color: blue;
+  text-align: center;
   overflow: hidden;
 }
 
-.topnav a {
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
+.topnav :hover {
+  background-color: blue;
   color: black;
 }
 
-.topnav a.active {
-  background-color: gold;
-  color: white;
+.jumb {
+  height: 400px;
+  width: 1500px;
+}
+
+* {
+  background-color: yellow;
 }
