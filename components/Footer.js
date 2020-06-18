@@ -1,3 +1,3 @@
 export default () => `
-<h1>Footer</h1>
+<>Copyright © 2020 Smiley Social Inc. All rights reserved</>
 `
