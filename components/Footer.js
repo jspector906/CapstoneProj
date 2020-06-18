@@ -1,3 +1,3 @@
 export default () => `
-<h1>Gift Shop</h1>
+<h1>Footer</h1>
 `

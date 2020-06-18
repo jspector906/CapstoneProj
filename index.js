@@ -1,6 +1,5 @@
-function render(){
-    document.querySelector("#root").innerHTML = `<p> i work</p>`
-}
+
+
 
 import { Header, Nav, Main, Footer } from "./components";
 import * as state from "./store";
@@ -11,10 +10,10 @@ const router = new Navigo(window.location.origin);
 router
   .on({
     ":page": params => render(state[params.page]),
-    "/": () => render(state.Home)
+    "/": () => render(state.LogIn)
   })
   .resolve();
-  function render(st = state.Home) {
+  function render(st = state.LogIn) {
       document.querySelector("#root").innerHTML = `
       ${Header(st)}
       ${Nav(state.Links)}
